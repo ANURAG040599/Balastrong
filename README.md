@@ -23,3 +23,4 @@ Let's get in touch! Connect with me on:
 ♟️ Are you a Chess player? You should check out [chess-stats-action](https://github.com/Balastrong/chess-stats-action) 😉
 
 Learning or improving your Web Development skills? Let's do it together with the [github-stats](https://github.com/Balastrong/github-stats) project!
+@Anurag1
